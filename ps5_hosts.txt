@@ -1,0 +1,13 @@
+# Version: 2022-12-12-1
+# Title: PS5-blocks
+                                             
+0.0.0.0 duk01.ps5.update.playstation.net
+0.0.0.0 fuk01.ps5.update.playstation.net
+0.0.0.0 dus01.ps5.update.playstation.net
+0.0.0.0 fus01.ps5.update.playstation.net
+0.0.0.0 feu01.ps5.update.playstation.net
+0.0.0.0 dau01.ps5.update.playstation.net
+0.0.0.0 fau01.ps5.update.playstation.net
+0.0.0.0 djp01.ps5.update.playstation.net
+0.0.0.0 fjp01.ps5.update.playstation.net
+0.0.0.0 sgst.prod.dl.playstation.net
