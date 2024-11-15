@@ -1,0 +1,33 @@
+! Blocklist for Dramafever
+# Add the following host file URL to AdAway 3.0.1 (55)
+# http://www.stephanpringle.com/hosts/dramafever.txt
+! Expires: 1 days
+# Copyright (c) 1990-2024 Sipylus, LLC.
+
+127.0.0.1 localhost
+::1 localhost
+
+# Vdopia
+127.0.0.1 cdn.vdopia.com
+127.0.0.1 serve.vdopia.com
+127.0.0.1 trk.vdopia.com
+
+# Go2Cloud
+127.0.0.1 dramafever.go2cloud.org
+
+# DoubleClick
+127.0.0.1 ad.doubleclick.net
+
+# PointRoll
+127.0.0.1 pointroll.com
+127.0.0.1 ads.pointroll.com
+127.0.0.1 ev.ads.pointroll.com
+127.0.0.1 t.pointroll.com
+127.0.0.1 speed.pointroll.com
+127.0.0.1 www.pointroll.com
+127.0.0.1 container.pointroll.com
+127.0.0.1 media.pointroll.com
+127.0.0.1 clients.pointroll.com
+127.0.0.1 track.pointroll.com
+127.0.0.1 spd.pointroll.com
+127.0.0.1 clk.pointroll.com
